@@ -1,0 +1,1 @@
+with(window)(f=>f(f,'Please provide a number',0,document))(/*Team*/(f,t,c,_)=>f(f,(_.body.appendChild(_.createTextNode(c+([{}]+[])[7])),t),parseInt(Object.entries(this).sort()[Object.entries(this).sort().findIndex(a=>a[0].startsWith('p'))+7][1].call(this,t))+c,_));
